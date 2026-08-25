@@ -110,6 +110,6 @@ jupyter notebook
 ---
 
 ## 👥 Tác Giả & Cuộc Thi
-* **Repository:** `alobipbop/last-dance`
-* **Đơn vị:** DATCOM Lab — National Economics University (NEU)
+* **Repository:** `alobipbop/datathon2026-ecommerce-analytics`
+* **Đơn vị:** Tennhom - National Economics University (NEU)
 * **Cuộc thi:** Datathon 2026
