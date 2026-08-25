@@ -124,5 +124,5 @@ jupyter notebook
 ---
 
 ## 👥 Nhóm Thực Hiện & Cuộc Thi
-* **Đơn vị / Lab:** DATCOM Lab — National Economics University (NEU)
+* **Đơn vị / Lab:** tennhom — National Economics University (NEU)
 * **Cuộc thi:** Datathon 2026
